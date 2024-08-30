@@ -1,0 +1,14 @@
+.lang{
+    list-style: none;
+    font-size: 1.5rem;
+}
+.lang li{ 
+    border-bottom: 1px solid red;
+    text-align: left;
+    cursor: pointer;
+}
+.lang li:hover{
+    background-color: rgb(237, 234, 234);
+    color: black;
+    transition: 0.5s;
+}
