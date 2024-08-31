@@ -1,4 +1,3 @@
-import './App.css'
 import About from './companents/about/About'
 import Contact from './companents/contact/Contact'
 import Home from './companents/home/Home'
