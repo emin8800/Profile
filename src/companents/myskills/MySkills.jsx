@@ -8,6 +8,8 @@ import {
 } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
 import { SiRedux, SiPostgresql } from "react-icons/si";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function MySkills() {
   return (
