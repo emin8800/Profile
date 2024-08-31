@@ -1,6 +1,8 @@
 import "./about.css";
 import { MdDownload } from "react-icons/md";
 import { FiMessageSquare } from "react-icons/fi";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function About() {
   return (
