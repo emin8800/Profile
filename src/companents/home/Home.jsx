@@ -13,6 +13,8 @@ import {
 } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
 import NavBar from "../navbar/NavBar";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function Home() {
   return (
