@@ -1,4 +1,4 @@
-// vite.config.js
+import react from '@vitejs/plugin-react';
 export default {
   server: {
     host: true, // Veya '0.0.0.0' olarak belirtin
