@@ -10,6 +10,8 @@ import {
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa6";
 import { FaTiktok } from "react-icons/fa";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function NavBar() {
   return (
