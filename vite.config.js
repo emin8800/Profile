@@ -1,7 +1,8 @@
 // vite.config.js
 export default {
   server: {
-    port: process.env.PORT || 3000, // Render'ın sağladığı portu kullanın
+    host: true, // Veya '0.0.0.0' olarak belirtin
+    port: process.env.PORT || 3000,
     strictPort: true
   }
 };
