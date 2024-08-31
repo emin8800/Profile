@@ -1,4 +1,6 @@
 import "./contact.css";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function Contact() {
   return (
