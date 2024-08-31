@@ -1,4 +1,6 @@
 import "./portfolio.css";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function Portfolio() {
   return (
